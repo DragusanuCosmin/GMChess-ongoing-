@@ -10,6 +10,7 @@ To use GrandMaster Chess, simply run the Main.java file, which will launch the a
 # Credits 
 This project was created by the user DragusanuCosmin as a simple exercise in Java GUI programming. The chess pieces button images used in the application were downloaded from various sites and then they were edited and resized, which provides royalty-free icons and graphics for software developers.
 
-# License This project is licensed under the General Public License license.Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.
+# License 
+This project is licensed under the General Public License license.Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.
 # Warning
 This project is not finished and may not work properly. This is the first version of the personal project and is looking forward to suggestions.
