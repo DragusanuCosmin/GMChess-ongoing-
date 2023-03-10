@@ -1,4 +1,4 @@
-#GrandMaster Chess
+# GrandMaster Chess
 GrandMaster Chess is a simple Java GUI application that is intended to let users play chess with the computer.
 
 #Requirements
